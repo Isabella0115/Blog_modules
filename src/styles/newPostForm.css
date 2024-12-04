@@ -1,0 +1,30 @@
+
+
+.container-root {
+  flex-direction: column;
+}
+
+.heading {
+  font-size: 3rem;
+}
+
+.form-wrapper {
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  width: 800px;
+  height: 500px;
+}
+
+form label {
+  font-size: 1.3rem;
+}
+
+.input {
+  width: 700px;
+  margin-bottom: 1rem;
+}
+
+
